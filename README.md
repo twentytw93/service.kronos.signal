@@ -1,6 +1,6 @@
 # Kronos Signal
 
-Kronos Signal is a program add-on for **Kodi 21.x (Omega)** designed for **LibreELEC** and **Windows** systems. 
+Kronos Signal is a program add-on for **Kodi 21.x (Omega)** designed for **LibreELEC** systems. 
 It provides a lightweight status overlay to keep users informed about key system conditions while maintaining stability and performance.
 
 ---
