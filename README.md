@@ -17,7 +17,6 @@ It provides a lightweight status overlay to keep users informed about key system
 ## Compatibility
 - Kodi **21 Omega** 
 - LibreELEC 12.0.2+ 
-- Windows 10/11 
 - Python 3 (bundled with Kodi)
 
 ---
