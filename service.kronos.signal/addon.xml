@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="service.kronos.signal"
+       name="Kronos Signal"
+       version="8.0.1"
+       provider-name="Kronos Team">
+
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+
+    <extension point="xbmc.service"
+               library="service.py"/>
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Minimal system status overlay during playback and home menu</summary>
+        <description lang="en">Kronos Signal Monitors CPU, RAM, Temp, and VPN — and it blinks, because something’s always moving. Built for Kronos and Paranoia isn’t a bug. It’s a feature.</description>
+        <platform>all</platform>
+		<assets>
+            <icon>resources/media/k_logo.png</icon>
+        </assets>
+    </extension>
+</addon>

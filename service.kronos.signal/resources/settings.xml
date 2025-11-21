@@ -1,0 +1,9 @@
+<settings>
+    <category label="Heads Up Display">
+        <setting id="show_vpn" type="bool" label="Show VPN Status" default="true"/>
+        <setting id="show_cpu" type="bool" label="Show CPU Usage" default="true"/>
+        <setting id="show_ram" type="bool" label="Show RAM Usage" default="true"/>
+        <setting id="show_temp" type="bool" label="Show Temperature" default="true"/>
+        <setting id="silent_mode" type="bool" label="Silent Mode (no overlay during playback)" default="true"/>
+    </category>
+</settings>
